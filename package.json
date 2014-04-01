@@ -1,0 +1,8 @@
+{
+  "name": "kue-performance-test",
+  "private": true,
+  "dependencies": {
+    "async": "*",
+    "pace": "*"
+  }
+}
